@@ -5,7 +5,7 @@ require 'rest-client'
 
 def welcome
   # puts out a welcome message here!
-  puts "Welcome to the Star Wars fact finder! Please enter a Star Wars noun to look for."
+  puts "Welcome to the Star Wars fact finder! Please enter a Star Wars character name."
 end
 
 def get_character_from_user
